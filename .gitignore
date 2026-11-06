@@ -1,0 +1,10 @@
+wandb/
+artifacts/
+__pycache__/
+.venv/
+*.pt
+data/
+runs/
+docs/
+
+.vscode/
